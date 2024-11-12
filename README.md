@@ -7,4 +7,4 @@ En este proyecto vamos a trabajar con una encuesta de satisfacción de museos de
 
 Datos cargados
 
-
+Transformacion y limpieza de datos (agrupar, eliminar valores nulos y convertir formatos)
