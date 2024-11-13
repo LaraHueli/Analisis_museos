@@ -9,4 +9,4 @@ Datos cargados
 
 Transformacion y limpieza de datos (agrupar, eliminar valores nulos y convertir formatos)
 
-
+Creacion de tablas dinamicas y graficos para dashBoard
